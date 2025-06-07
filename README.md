@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tejash Gawas</h1>
-<h3 align="center">Computer Science Engineering student with a passion for AI?ML, web development, and innovative projects.</h3>
+<h3 align="center">Computer Science Engineering student with a passion for AI?ML and innovative projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
 
-- 🔭 I’m currently working on **NexEvent-AI powered Event Management Tool** and **Internship Project - QA-EDTECH CHATBOT MODEL**
+- 🔭 My recent Projects are **NexEvent-AI powered Event Management Tool** and **Internship Project - QA-EDTECH CHATBOT MODEL**
 
-- 🌱 I’m currently learning **MERN Development,AI/ML**
+- 🌱 I’m currently upskilling in  **AI/ML**
 
 - 📫 How to reach me **gawastejash@gmail.com**
 
