@@ -8,9 +8,7 @@
 - 📄 Know about my experiences [https://congruous-hisser-9aa.notion.site/Tejash-Gawas-20b00df111b680108687c6fdb3e89159](https://congruous-hisser-9aa.notion.site/Tejash-Gawas-20b00df111b680108687c6fdb3e89159)
 ## 🚀 About Me
 
-I'm a passionate and driven developer currently diving deep into Machine Learning, Python development, and real-world AI applications. With hands-on experience in building end-to-end solutions — from training ML models to locally hosting  — I’m committed to creating impactful and scalable projects.  
-
-I'm currently preparing for job roles in Python, ML Engineering, and Data Analysis, while working on real-time projects and sharpening my DSA and system design skills.
+I'm a passionate and driven developer currently focused on Python backend development — building clean, functional applications using Flask and SQL. I'm deeply committed to learning through real-world projects, with a long-term goal of becoming an AI/ML engineer.
 
 ## 💼 Current Projects
 
@@ -31,7 +29,8 @@ A full-stack smart event management platform with features like:
 ## 📈 Current Focus 
 
 ✅ Mastering Python & OOPs  
-✅ Revising DSA with Leetcode  
+✅ Revising DSA with Leetcode 
+✅ Deep dive into flask and sql 
 ✅ Deep dive into ML + real-world model deployment  
 ✅ Building & deploying portfolio-ready projects  
 ✅ Improving GitHub repo quality & LinkedIn presence  
