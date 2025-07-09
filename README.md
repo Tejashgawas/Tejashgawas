@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tejash Gawas</h1>
-🎓 Final Year B.E. Student | 💻 Python Developer | 🤖 Aspiring ML Engineer |
+🎓 Final Year B.E. Student | 💻 Python Backend Developer | 🤖 Aspiring Ai/ML Engineer |
 📍 From Vasco, Goa | Open to Python, ML, and AI/Backend Roles
 
 📫 How to reach me **gawastejas003@gmail.com**
