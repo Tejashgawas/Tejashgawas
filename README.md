@@ -5,7 +5,7 @@
 
 📫 How to reach me **gawastejas003@gmail.com**
 
-- 📄 Know about my experiences [https://congruous-hisser-9aa.notion.site/Tejash-Gawas-20b00df111b680108687c6fdb3e89159](https://congruous-hisser-9aa.notion.site/Tejash-Gawas-20b00df111b680108687c6fdb3e89159)
+
 ## 🚀 About Me
 
 I'm a passionate and driven developer currently focused on Python backend development — building clean, functional applications using Flask and SQL. I'm deeply committed to learning through real-world projects, with a long-term goal of becoming an AI/ML engineer.
