@@ -36,4 +36,4 @@ A full-stack smart event management platform with features like:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejashgawas&show_icons=true&locale=en&layout=compact" alt="tejashgawas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejashgawas&show_icons=true&locale=en" alt="tejashgawas" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejashgawas&show_icons=true&locale=en&cache_seconds=0" alt="tejashgawas" />
