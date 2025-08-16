@@ -25,18 +25,7 @@ A full-stack smart event management platform with features like:
 - Evaluated LLMs (Gemma, LLaMA, Nemo-mini) using metrics like ROUGE-L, METEOR, and CIDEr. 
 - Developed a custom pipeline with semantic filtering and ranking to improve QA accuracy and relevance. 
 
----
-## 📈 Current Focus 
-
-✅ Mastering Python & OOPs  
-✅ Revising DSA with Leetcode 
-✅ Deep dive into flask and sql 
-✅ Deep dive into ML + real-world model deployment  
-✅ Building & deploying portfolio-ready projects  
-✅ Improving GitHub repo quality & LinkedIn presence  
-✅ Cracking interviews and securing Python/ML job offers  
-
-
+--- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tejash-gawas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejash-gawas/" height="30" width="40" /></a>
