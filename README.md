@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tejash Gawas</h1>
-🎓 Final Year B.E. Student | 💻 Python Backend Developer | 🤖 Aspiring Gen AI Engineer |
+🎓 Final Year B.E. Student | 💻 Python Developer | 🤖 Aspiring Gen AI Engineer |
 📍 From Vasco, Goa | Open to Python,AI/Backend Roles
 
 📫 How to reach me **gawastejas003@gmail.com**
@@ -18,12 +18,19 @@ A full-stack smart event management platform with features like:
 - 📊 Post-event sentiment analysis and feedback reports
 - ✨ AI theme generator using Gamma and Stable diffusion model
 
-### 📚 QA Bot for EdTech
+### 📚 QA Bot for EdTech - (Research Intern at Bits Pilani)
 - Implemented a QA platform for NCERT textbooks (Grades 6–8) using custom-curated datasets from 
 - textbook content. 
 - Performed EDA and data cleaning using Pandas, NumPy, and Matplotlib to prepare Insights on Dataset. 
 - Evaluated LLMs (Gemma, LLaMA, Nemo-mini) using metrics like ROUGE-L, METEOR, and CIDEr. 
-- Developed a custom pipeline with semantic filtering and ranking to improve QA accuracy and relevance. 
+- Developed a custom pipeline with semantic filtering and ranking to improve QA accuracy and relevance.
+
+### TripMate - A smart group trip planning platform
+- Engineered TripMate, a full-stack group travel planner (FastAPI, Next.js, PostgreSQL, Redis, Tailwind CSS) that streamlined trip coordination with trip management, smart checklists, and AI-assisted itineraries.
+- Designed and deployed scalable backend with async FastAPI + SQLAlchemy, role-based authentication (JWT & Google OAuth2), and modular architecture, ensuring maintainability and production readiness.
+- Optimized performance with Redis caching, reducing redundant database queries and improving API response times by ~39%.
+- Integrated cross-platform authentication and session handling, solving cookie/domain issues for seamless login across web and mobile browsers.
+- Delivered full deployment pipeline (Render + Vercel) and launched live MVP used by testers, gaining hands-on experience in DevOps, debugging in production, and user feedback loops.
 
 --- 
 <h3 align="left">Connect with me:</h3>
