@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate and driven developer currently focused on Python backend development — building clean, functional applications using Flask and SQL. I'm deeply committed to learning through real-world projects, with a long-term goal of becoming an AI/ML engineer.
+I'm a passionate and driven developer currently focused on Python/AI development — building clean, functional applications using FastApi . I'm deeply committed to learning through real-world projects, with a long-term goal of becoming an AI/ML engineer.
 
 ## 💼 Current Projects
 
